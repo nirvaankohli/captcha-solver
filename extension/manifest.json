@@ -1,0 +1,12 @@
+{
+    "name": "Captcha Solver",
+    "description": "Solves image captchas that contain distorted text.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+
+      "default_popup": "popup.html",
+      "default_icon": "captcha_solver.png"
+
+    }
+  }
